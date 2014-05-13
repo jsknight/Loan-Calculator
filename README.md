@@ -1,4 +1,4 @@
 Loan-Calculator
 ===============
 
-Loan app for CAPCA
+Loan Calculator app - Vanilla JS
