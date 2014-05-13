@@ -1,0 +1,12 @@
+.output{
+     font-weight: bold;
+}
+#payment{
+     text-decoration: underline;
+}
+#graph{
+     border: solid black 1px;
+}
+td,th{ 
+     vertical-align: top;
+}
